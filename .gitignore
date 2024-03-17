@@ -1,0 +1,6 @@
+# Directories to be ignored
+log-directory/
+saved-models/
+wandb/
+tensorboard_logs/
+__pycache__/
